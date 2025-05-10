@@ -18,9 +18,9 @@ A: I'm from China, it's a beautiful country~
 
 Q：在哪能找到你呢（？
 
-A：az...这个就随缘啦\~可以问问身边有没有认识我的人~
+A：az...这个就随缘啦\~可以问问身边有没有认识我的人~（扩列可以去`udstudio.ekac@gmail.com`来找我哦）
 
->在Ekac00/Ekac00中发issues来提问吧~
+>在本仓库中[发issues]([https://github.com/Ekac00/.github/issues)来提问吧~
 
 <br>
 
