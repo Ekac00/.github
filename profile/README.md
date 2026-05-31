@@ -4,7 +4,7 @@
 
 是一只蓝色的小狼哦~
 会点python和html
-最常用的AI工具是Qwen和Manus~
+最常用的AI工具是Qwen
 
 <br>
 
